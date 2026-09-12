@@ -4,6 +4,8 @@ dist
 .tanstack
 .output
 .nitro
+.grok
+.project_id
 *.log
 .env
 .env.*
